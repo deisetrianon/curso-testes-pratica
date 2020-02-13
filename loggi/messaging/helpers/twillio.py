@@ -15,7 +15,7 @@ WHATSAPP_RATINGS_REPLY_BAD = \
     'Vamos trabalhar por aqui para melhorar esse ponto.\n\n' \
     'Obrigada por nos ajudar, respondendo à pesquisa. :blue_heart:'
 
-WHATSAPP_RATINGS_REPLY_DONT_UNDERTAND = \
+WHATSAPP_RATINGS_REPLY_DONT_UNDERSTAND = \
     'Eita, a gente não conseguiu entender a sua resposta. :thinking_face:\n\n' \
     'Digite *BOA*, se correu tudo bem durante a ligação.\n\n' \
     'Ou mande *RUIM*, se você não teve uma boa experiência.\n\n' \
